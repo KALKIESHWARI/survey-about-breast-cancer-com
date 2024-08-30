@@ -192,6 +192,7 @@ class="inputRadio"
                 CBE is a healthcare professional visually inspects and palpates the breasts to detect abnormalities, such as lumps,thickening or nipple discharge,typically done annually for women over 40.
         </p>
     </div></p>
+            <!-- end of radio button -->
     <!-- radio button section -->
 <div class="form-group">
     <p id="quest">Have you ever heard about CBE?</p>
@@ -272,7 +273,8 @@ class="inputRadio"
     >No
     </label>
     </label>
-    </div>    
+    </div>   
+        <!-- end of radio button -->    
 
        <!-- radio button section -->
 <div class="form-group">
@@ -295,21 +297,22 @@ class="inputRadio"
         </div>
 
     </div>
-    <!-- radio button section -->
+<!-- radio button section -->
 <div class="form-group">
-    <p id="quest">Have any abnormalities been detected during mammography?</p>
-    <label for="">
-    <input type="radio" name="source" value="Yes"
-    class="inputRadio"
-    checked> Yes
-    </label>
-    <label for="">
-    <input type="radio" name="source" value="No"
-    class="inputRadio"
-    >No
-    </label>
-    </label>
-    </div>
+<p id="quest">Have any abnormalities been detected during mammography?</p>
+<label for="">
+<input type="radio" name="source" value="Yes"
+class="inputRadio"
+checked> Yes
+</label>
+<label for="">
+<input type="radio" name="source" value="No"
+class="inputRadio"
+>No
+</label>
+</label>
+</div>
+<!-- end of radio button -->
 
 
 
@@ -325,7 +328,7 @@ class="inputRadio"
 <button type="submit" id="submit" class="btn">Submit</button>
 
 
-    @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root{
 --color-white:#000000;

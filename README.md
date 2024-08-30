@@ -120,7 +120,8 @@ class="inputRadio"
               <!-- end of radio button -->
     <!-- radio button section -->
 <div class="form-group">
-    <p id="quest">Do you perform regular BSE?</p>
+    <p id="quest">Do you perform regular BSE?
+    </p>
     <label for="">
     <input type="radio" name="source" value="Yes"
     class="inputRadio"

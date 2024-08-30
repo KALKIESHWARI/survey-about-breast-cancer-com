@@ -156,4 +156,9 @@
 
         <!-- Submit button -->
         <div class="form-group">
-            <button type="submit" id="submit" class="
+            <button type="submit" id="submit" class="btn">Submit</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>

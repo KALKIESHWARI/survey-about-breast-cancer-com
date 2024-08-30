@@ -34,7 +34,7 @@ This survey aims to gather information about your breast health checkup.
 <label for="email">email</label> 
 <input type="email" name="email" id="email" class="formControl" placeholder="Enter your email">
 </div>
-
+<!-- end of email button -->
 
 <!-- radio button section -->
 <div class="form-group">
@@ -109,6 +109,7 @@ class="inputRadio"
     </label>
     </div>
     <!-- end of radio button -->
+     <!-- radio button section -->
     <div class="form-group">
         <p id="quest">BREAST SELF-EXAMINATION(BSE)</p>
         <label for="">
@@ -116,6 +117,7 @@ class="inputRadio"
                          BSE is a monthly self-check for breast changes, using a mirror and hands to inspect and feel for lumps,thickening or unusual changes in breast tissue.
         </p>
     </div></p>    
+              <!-- end of radio button -->
     <!-- radio button section -->
 <div class="form-group">
     <p id="quest">Do you perform regular BSE?</p>
